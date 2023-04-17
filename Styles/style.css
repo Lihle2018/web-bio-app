@@ -6,7 +6,7 @@ body{background-color: #023436;
     font-family: 'Poppins', sans-serif;
     padding:20px;
 }
-.profile-img{width: 50%;
+.profile-img{width: 25%;
              border-radius: 50%;
 }
 h1{font-size:large;}
